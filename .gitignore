@@ -1,0 +1,13 @@
+# Avoid breaking any paywall laws
+Papers/*
+
+# Ignore all auxiliary latex files
+*.bib.bak
+*.bib.sav
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
