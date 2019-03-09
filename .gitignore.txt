@@ -1,2 +1,0 @@
-# Avoid breaking any paywall laws
-Papers/*
